@@ -1,0 +1,31 @@
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    font-size:130%;
+    
+    
+}  
+.textalign1{
+    text-align:center;
+}
+.textalign2{
+    text-align:right;
+}
+.yellowbackground{
+    background-color:orange;
+    width:25%
+}
+.redbackground{
+    background-color:#e41616;
+}
+.whiteletters{
+    color:white;
+}
+.greybackground{
+    background-color:#d9d9d9;
+} 
+.Arial{
+    font-family:arial;
+}
+.width{
+    width:25%
